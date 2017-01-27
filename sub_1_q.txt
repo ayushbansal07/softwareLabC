@@ -1,0 +1,10 @@
+What is the value of 1+1?
+2
+3
+4
+None of these
+What is the value of 10*10?
+10
+100
+200
+300
